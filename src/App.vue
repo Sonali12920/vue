@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-     <h1>Github Users </h1>
+     <h1>Github Users Data </h1>
      <p style="text-align:center">Press the button below to view the details of GitHub Users</p>
      <table>
        <thead>
